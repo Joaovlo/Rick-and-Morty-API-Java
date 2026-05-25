@@ -229,6 +229,3 @@ src/main/java/com/example/rickstarter/
 
 ---
 
-## Origem do repositório
-
-Projeto baseado em um starter para teste de vaga **Backend Java Júnior**. O README original listava requisitos (persistência local, CRUD completo de episódios, paginação com metadados). O estado atual reflete o que o código entrega: **importação + CRUD de personagens + relatório de espécies**, com episódios persistidos em memória mas **sem API HTTP exposta** para episódios.
