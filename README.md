@@ -2,8 +2,6 @@
 
 API REST em **Java 11** com **Spark Java**, que espelha dados da [Rick and Morty API](https://rickandmortyapi.com/) em memória e expõe CRUD de personagens, importação em lote e um relatório de espécies por episódio.
 
-Servidor padrão: `http://localhost:8080`
-
 ---
 
 ## Visão geral
